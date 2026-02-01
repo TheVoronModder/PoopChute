@@ -14,6 +14,7 @@ There are **two versions** of PoopChute, depending on your **side skirt configur
 The top deck panel can be obtained in one of two ways:
 
 - Order a pre-cut top deck from one of the listed **affiliates**
+- Ready for 250, 300 and 350
 - Trace the provided top profile and cut your own panel from sheet material
 
 Both options result in the same functional fit.
