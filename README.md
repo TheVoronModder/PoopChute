@@ -19,4 +19,4 @@ The top deck panel can be obtained in one of two ways:
 
 Both options result in the same functional fit.
 
-<img width="3214" height="996" alt="Poop Chute Rendering" src="https://github.com/user-attachments/assets/f436ec1f-50ef-4839-9e80-f1109683cf94" />
+<img width="5000" height="848" alt="Poop Chute Banner Rendering" src="https://github.com/user-attachments/assets/b0571dbc-25d8-42de-a731-7b621204056c" />
