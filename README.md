@@ -40,8 +40,9 @@ Both options result in the same functional fit.
   <tr>
     <td>m3 heatsert (BHCS)</td>
     <td>x6</td>
-    <td><img width="300" height="125" alt="m3 heatsert" src="https://github.com/user-attachments/assets/bf33e4c7-256a-4b69-86aa-793640043572" /></img></td>
+    <td><img width="300" height="125" alt="m3 heatsert" src="https://github.com/user-attachments/assets/faef038b-85b6-4483-a830-070e50e5fcb3" /></img></td>
   </tr>
+
 
 
 
