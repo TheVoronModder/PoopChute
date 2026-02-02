@@ -30,7 +30,7 @@ Both options result in the same functional fit.
 
 <div align="center">
 
-## Hardware List - Stock Side Panel (Handle and Hinges)
+## Hardware List - 
 <table>
   <tr>
     <th>Hardware</th>
