@@ -26,7 +26,16 @@ There are **two versions** of PoopChute, depending on your **side skirt configur
 
 <img width="3240" height="921" alt="Skirt Optinos" src="https://github.com/user-attachments/assets/1a4443b7-fba0-4ccc-929e-e06418719b53" />
 
-- The .stls are noted in the file name (Mesh Skirt) or (Stock Skirt) 
+- The .stls are noted in the file name (Mesh Skirt) or (Stock Skirt)
+
+## Print Settings
+I suggest the following, you may deviate however YMMV.
+
+- Walls - 5
+- top shell layers - 5
+- bottom shell layers - 5
+- infill 10% using rectilinear
+- solid infill rotation template: 45,45
 
 <div align="center">
 
