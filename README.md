@@ -1,5 +1,5 @@
 
-<img width="3000" height="1024" alt="poopchutpng" src="https://github.com/user-attachments/assets/3ba33eee-ff39-4d16-8687-280884b08635" />
+<img width="3000" height="1024" alt="poopchutpng" src="https://github.com/user-attachments/assets/5d1d3c2c-e3c7-42f6-ae0b-88f59208d6c4" />
 
 
 **PoopChute** is a purpose-built filament purge chute for MMU-equipped **Voron 2.4** printers. Designed to integrate cleanly with the Voron ecosystem, it directs purge material away from the build area during tool changes, helping keep the printer clean and multi-material prints consistent.
