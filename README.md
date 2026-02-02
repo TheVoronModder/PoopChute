@@ -31,12 +31,12 @@ Both options result in the same functional fit.
   <tr>
     <td>m3x25mm (SHCS)</td>
     <td>x6</td>
-    <td><img width="779" height="322" alt="m3x25shcs" src="https://github.com/user-attachments/assets/8edbf0ed-01ae-4880-b226-aaa0b5cb66a0" /></img></td>
+    <td><img width="300" height="125" alt="m3x25shcs" src="https://github.com/user-attachments/assets/8edbf0ed-01ae-4880-b226-aaa0b5cb66a0" /></img></td>
   </tr>
   <tr>
     <td>m5x30mm (BHCS)</td>
     <td>x2</td>
-    <td><img width="779" height="322" alt="m5x30bhcs" src="https://github.com/user-attachments/assets/64db1110-427b-4f38-a584-d4c09e33915e" /></img></td>
+    <td><img width="300" height="125" alt="m5x30bhcs" src="https://github.com/user-attachments/assets/64db1110-427b-4f38-a584-d4c09e33915e" /></img></td>
   </tr>
 
 
