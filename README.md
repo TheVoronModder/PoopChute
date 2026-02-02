@@ -20,3 +20,25 @@ The top deck panel can be obtained in one of two ways:
 Both options result in the same functional fit.
 
 <img width="5000" height="848" alt="Poop Chute Banner Rendering" src="https://github.com/user-attachments/assets/b0571dbc-25d8-42de-a731-7b621204056c" />
+
+## Hardware List - Stock Side Panel (Handle and Hinges)
+<table>
+  <tr>
+    <th>Hardware</th>
+    <th>Quantity</th>
+    <th>Image</th>
+  </tr>
+  <tr>
+    <td>m3x25mm (SHCS)</td>
+    <td>x6</td>
+    <td><img width="119" height="51" alt="92185k546-@halfx_637619380818794440" src="https://github.com/user-attachments/assets/a0eaf105-5308-4441-9852-5f44c27d836a" /></img></td>
+  </tr>
+  <tr>
+    <td>m5x30mm (BHCS)</td>
+    <td>x2</td>
+    <td><img width="100" height="44" alt="92095A218_41cd0c35-d151-4027-a091-7d346647b86e@100p_rgorc_1748984910" src="https://github.com/user-attachments/assets/850d3bca-d23c-487d-a0c7-169918c7f077" /></img></td>
+  </tr>
+
+
+</table>
+</details>
