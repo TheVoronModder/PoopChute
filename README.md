@@ -31,13 +31,15 @@ Both options result in the same functional fit.
   <tr>
     <td>m3x25mm (SHCS)</td>
     <td>x6</td>
-    <td><img width="119" height="51" alt="92185k546-@halfx_637619380818794440" src="https://github.com/user-attachments/assets/caf20e22-afb5-4070-a462-b6065d3f740f" /></img></td>
+    <td><img width="779" height="322" alt="m3x25shcs" src="https://github.com/user-attachments/assets/8edbf0ed-01ae-4880-b226-aaa0b5cb66a0" /></img></td>
   </tr>
   <tr>
     <td>m5x30mm (BHCS)</td>
     <td>x2</td>
-    <td><img width="100" height="44" alt="92095A218_41cd0c35-d151-4027-a091-7d346647b86e@100p_rgorc_1748984910" src="https://github.com/user-attachments/assets/850d3bca-d23c-487d-a0c7-169918c7f077" /></img></td>
+    <td><img width="779" height="322" alt="m5x30bhcs" src="https://github.com/user-attachments/assets/64db1110-427b-4f38-a584-d4c09e33915e" /></img></td>
   </tr>
+
+
 
 
 
