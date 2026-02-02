@@ -20,6 +20,8 @@ Both options result in the same functional fit.
 
 <img width="5000" height="848" alt="Poop Chute Banner Rendering" src="https://github.com/user-attachments/assets/b0571dbc-25d8-42de-a731-7b621204056c" />
 
+<div align="center">
+
 ## Hardware List - Stock Side Panel (Handle and Hinges)
 <table>
   <tr>
@@ -42,14 +44,6 @@ Both options result in the same functional fit.
     <td>x6</td>
     <td><img width="300" height="125" alt="m3 heatsert" src="https://github.com/user-attachments/assets/faef038b-85b6-4483-a830-070e50e5fcb3" /></img></td>
   </tr>
-
-
-
-
-
-
-
-
-
 </table>
 </details>
+</div>
