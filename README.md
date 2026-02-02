@@ -4,9 +4,7 @@
 
 **PoopChute** is a purpose-built filament purge chute for MMU-equipped **Voron 2.4** printers. Designed to integrate cleanly with the Voron ecosystem, it directs purge material away from the build area during tool changes, helping keep the printer clean and multi-material prints consistent.
 
-## Variants
 
-There are **two versions** of PoopChute, depending on your **side skirt configuration**. Be sure to choose the version that matches your setup.
 
 ## Top Deck Panel
 
@@ -20,8 +18,10 @@ Both options result in the same functional fit.
 
 <img width="5000" height="848" alt="Poop Chute Banner Rendering" src="https://github.com/user-attachments/assets/b0571dbc-25d8-42de-a731-7b621204056c" />
 
-## SKIRT OPTIONS For .STLS
 
+## Variants
+
+There are **two versions** of PoopChute, depending on your **side skirt configuration**. Be sure to choose the version that matches your setup.
 - 2 skirt designs currently exist for the Voron 2.4 and Trident Ecosystem..
 
 <img width="3240" height="921" alt="Skirt Optinos" src="https://github.com/user-attachments/assets/1a4443b7-fba0-4ccc-929e-e06418719b53" />
