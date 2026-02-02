@@ -20,6 +20,14 @@ Both options result in the same functional fit.
 
 <img width="5000" height="848" alt="Poop Chute Banner Rendering" src="https://github.com/user-attachments/assets/b0571dbc-25d8-42de-a731-7b621204056c" />
 
+## SKIRT OPTIONS For .STLS
+
+- 2 skirt designs currently exist for the Voron 2.4 and Trident Ecosystem..
+
+<img width="3240" height="921" alt="Skirt Optinos" src="https://github.com/user-attachments/assets/1a4443b7-fba0-4ccc-929e-e06418719b53" />
+
+- The .stls are noted in the file name (Mesh Skirt) or (Stock Skirt) 
+
 <div align="center">
 
 ## Hardware List - Stock Side Panel (Handle and Hinges)
