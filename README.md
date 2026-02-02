@@ -37,6 +37,12 @@ Both options result in the same functional fit.
     <td>x2</td>
     <td><img width="300" height="125" alt="m5x30bhcs" src="https://github.com/user-attachments/assets/64db1110-427b-4f38-a584-d4c09e33915e" /></img></td>
   </tr>
+  <tr>
+    <td>m3 heatsert (BHCS)</td>
+    <td>x6</td>
+    <td><img width="300 height="125" alt="m3 heatsert" src="https://github.com/user-attachments/assets/9f9a5c6d-41a1-40d6-9d85-11e341b9af58" /></img></td>
+  </tr>
+
 
 
 
