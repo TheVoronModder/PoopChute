@@ -62,7 +62,7 @@ I suggest the following, you may deviate however YMMV.
     <td><img width="300" height="125" alt="m3 heatsert" src="https://github.com/user-attachments/assets/faef038b-85b6-4483-a830-070e50e5fcb3" /></img></td>
   </tr>
     <tr>
-    <td>Declid</td>
+    <td>Deck lid</td>
     <td>x1</td>
     <td><img width="300" height="300" alt="300" src="https://github.com/user-attachments/assets/889c3b31-3463-464f-aa18-d430577e6c8d" /></img></td>
   </tr>
